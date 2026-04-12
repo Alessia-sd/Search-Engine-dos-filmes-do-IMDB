@@ -23,3 +23,13 @@ Para executar no terminal: stremilt run app.py
 - Motor de Busca: Implementação de lógica fuzzy com a biblioteca RapidFuzz, configurada para aceitar variações de escrita e ignorar a diferença entre maiúsculas e minúsculas.
 
 - Interface: Desenvolvimento de uma UI interativa em Streamlit, organizada com containers e colunas para uma visualização clara dos resultados e metadados dos filmes.
+
+#### 📸 Demonstração da Interface
+
+Aqui podes ver como a aplicação funciona:
+
+### Página Inicial
+![Interface Inicial](assets/screenshot2.png)
+
+### Resultados da Pesquisa com Expanders
+![Resultados da Pesquisa](assets/screenshot1.png)
