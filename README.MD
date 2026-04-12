@@ -29,7 +29,7 @@ Para executar no terminal: stremilt run app.py
 Aqui podes ver como a aplicação funciona:
 
 ### Página Inicial
-![Interface Inicial](assets/screenshot2.png)
+![Interface Inicial](screenshot2.png)
 
 ### Resultados da Pesquisa com Expanders
-![Resultados da Pesquisa](assets/screenshot1.png)
+![Resultados da Pesquisa](screenshot1.png)
